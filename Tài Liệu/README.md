@@ -35,4 +35,4 @@ Theo em thì trong 10 năm tới lập trình di động chắc chắn vẫn ph�
 - Nút back (mũi tên trái) và nút check (xác nhận).
 
 ## 📸 Kết quả
-![output](image-1.png)
+![output](image.png)
