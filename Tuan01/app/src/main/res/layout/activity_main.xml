@@ -34,15 +34,16 @@
     <!-- Avatar hình tròn -->
 
     <!-- Tên sinh viên -->
+
     <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/profileImage"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:layout_marginTop="84dp"
+        android:layout_marginTop="104dp"
         android:contentDescription="Profile photo"
         android:src="@drawable/my_avatar"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.524"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
